@@ -158,13 +158,6 @@ nvidia-openshell-security-lab/
 │   ├── OpenShell-NVIDIA-Security-Lab-TEXT.epub
 
 ```
-
-| **Sandbox Isolation** | Run agents in contained environments | ✅ |
-| **File Access Control** | Prevent unauthorized file operations | ✅ |
-| **Network Restrictions** | Policy-based connectivity limits | ✅ |
-| **Runtime Monitoring** | Real-time security event tracking | ✅ |
-| **Policy Enforcement** | Approve/deny agent actions | ✅ |
-
 ### Technology Stack
 
 - **NVIDIA OpenShell** v0.1.2+
@@ -232,7 +225,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🏆 Special Recognition
 
-**Released for Cybersecurity Awareness Month 2024** 🎃
+**Released for Cybersecurity Awareness Month 2026** 🎃
 
 Built in response to real-world AI sandbox vulnerabilities and the need for practical, hands-on security education.
 
