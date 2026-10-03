@@ -74,7 +74,7 @@ Choose your preferred learning style:
 - Windows 10/11 with WSL 2
 - Ubuntu (via WSL)
 - 8GB+ RAM recommended
-- NVIDIA API key ([Get one here](https://catalog.ngc.nvidia.com/))
+- NVIDIA API key ([Get one here](https://build.nvidia.com/models))
 
 ### Installation (5 minutes)
 
@@ -114,7 +114,7 @@ openshell sandbox exec --name del-block-demo \
   -- python /tmp/agent_updated.py
 ```
 
-**Watch the dashboard in Terminal 1** — you'll see the security policy in action! 🎯
+**Watch the dashboard in Terminal 1** - you'll see the security policy in action! 🎯
 
 ---
 
@@ -156,11 +156,14 @@ nvidia-openshell-security-lab/
 │   ├── OpenShell-NVIDIA-Security-Lab-Book.md
 │   ├── OpenShell-NVIDIA-Security-Lab-Interactive.html
 │   ├── OpenShell-NVIDIA-Security-Lab-TEXT.epub
+
 | **Sandbox Isolation** | Run agents in contained environments | ✅ |
 | **File Access Control** | Prevent unauthorized file operations | ✅ |
 | **Network Restrictions** | Policy-based connectivity limits | ✅ |
 | **Runtime Monitoring** | Real-time security event tracking | ✅ |
 | **Policy Enforcement** | Approve/deny agent actions | ✅ |
+
+```
 
 ### Technology Stack
 
@@ -182,32 +185,6 @@ nvidia-openshell-security-lab/
 5. **📱 Reference the EPUBs** - Keep on your device
 
 ---
-
-## 🤔 Common Questions
-
-<details>
-<summary><b>Why separate text and image EPUBs?</b></summary>
-
-**Text EPUB**: Clean, distraction-free reading on any e-reader  
-**Image EPUB**: Full-page screenshots, crystal clear on tablets
-
-Use both together for the best experience!
-</details>
-
-<details>
-<summary><b>Do I need a GPU?</b></summary>
-
-No! This lab uses NVIDIA's cloud API (GPT-OSS-20B). You only need an API key.
-</details>
-
-<details>
-<summary><b>Can I run this on Mac/Linux?</b></summary>
-
-The lab is designed for Windows + WSL, but the concepts work on any platform with OpenShell support. Skip the WSL steps on native Linux.
-</details>
-
-<details>
-<summary><b>Is this production-ready?</b></summary>
 
 This is an educational lab demonstrating security concepts. For production use, consult [NVIDIA OpenShell documentation](https://docs.nvidia.com/openshell/) and implement comprehensive security policies.
 </details>
