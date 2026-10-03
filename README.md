@@ -234,8 +234,6 @@ Built in response to real-world AI sandbox vulnerabilities and the need for prac
 ## 🔗 Related Resources
 
 - [NVIDIA OpenShell Documentation](https://docs.nvidia.com/openshell/)
-- [NVIDIA API Catalog](https://catalog.ngc.nvidia.com/)
-- [AI Security Best Practices](https://owasp.org/www-project-ai-security-and-privacy-guide/)
 - [Cybersecurity Awareness Month](https://www.cisa.gov/cybersecurity-awareness-month)
 
 ---
