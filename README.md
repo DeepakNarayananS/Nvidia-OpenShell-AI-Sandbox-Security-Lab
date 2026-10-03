@@ -11,10 +11,6 @@ A comprehensive, hands-on security laboratory demonstrating practical sandbox co
 
 ---
 
-## 🚨 Why This Matters
-
-Remember when [GitHub's AI accidentally exposed sensitive data](https://www.wiz.io/blog/38-terabytes-of-private-data-accidentally-exposed-by-microsoft-ai-researchers) in their sandbox environment? That wasn't a bug—that was a wake-up call.
-
 **AI agents need security boundaries, not just better prompts.**
 
 This lab demonstrates how to:
@@ -29,11 +25,11 @@ This lab demonstrates how to:
 
 A complete AI agent security sandbox featuring:
 
-- **🔒 Access Control** — Restrict file and directory access
-- **⚙️ Policy Enforcement** — Define and enforce allowed actions
-- **📦 Sandboxing** — Isolated execution environments
-- **🌐 Network Restrictions** — Control external connectivity
-- **🔍 Runtime Monitoring** — Real-time security event dashboard
+- **🔒 Access Control** - Restrict file and directory access
+- **⚙️ Policy Enforcement** - Define and enforce allowed actions
+- **📦 Sandboxing** - Isolated execution environments
+- **🌐 Network Restrictions** - Control external connectivity
+- **🔍 Runtime Monitoring** - Real-time security event dashboard
 
 ### Laboratory Architecture
 
@@ -160,25 +156,7 @@ nvidia-openshell-security-lab/
 │   ├── OpenShell-NVIDIA-Security-Lab-Book.md
 │   ├── OpenShell-NVIDIA-Security-Lab-Interactive.html
 │   ├── OpenShell-NVIDIA-Security-Lab-TEXT.epub
-```
-nvidia-openshell-security-lab/
-├── README.md                          # This file
-├── .env.example                       # Environment template
-├── requirements.txt                   # Python dependencies
-│
-├── 📖 Documentation
-│   ├── OpenShell-NVIDIA-Security-Lab-Book.md
-│   ├── OpenShell-NVIDIA-Security-Lab-Interactive.html
-│   ├── OpenShell-NVIDIA-Security-Lab-TEXT.epub
-│   ├── OpenShell-NVIDIA-Security-Lab-IMAGES.epub
-│   └── BOOK_README.md
-│
-└── 🐍 Book Generators
-    ├── create_dual_epub.py
-    ├── create_html_interactive.py
-    ├── create_html_book.py
-    └── create_epub.py
-```*Sandbox Isolation** | Run agents in contained environments | ✅ |
+| **Sandbox Isolation** | Run agents in contained environments | ✅ |
 | **File Access Control** | Prevent unauthorized file operations | ✅ |
 | **Network Restrictions** | Policy-based connectivity limits | ✅ |
 | **Runtime Monitoring** | Real-time security event tracking | ✅ |
@@ -197,11 +175,11 @@ nvidia-openshell-security-lab/
 
 ## 📖 Learning Path
 
-1. **📘 Read the markdown guide** — Understand concepts
-2. **🌐 Open the interactive HTML** — See visual walkthroughs
-3. **⚡ Run the quick start** — Get hands-on experience
-4. **🔬 Try the demos** — Test security controls
-5. **📱 Reference the EPUBs** — Keep on your device
+1. **📘 Read the markdown guide** - Understand concepts
+2. **🌐 Open the interactive HTML** - See visual walkthroughs
+3. **⚡ Run the quick start** - Get hands-on experience
+4. **🔬 Try the demos** - Test security controls
+5. **📱 Reference the EPUBs** - Keep on your device
 
 ---
 
@@ -302,7 +280,7 @@ Built in response to real-world AI sandbox vulnerabilities and the need for prac
 
 ## 📊 Project Status
 
-🟢 **Active** — Regularly maintained and updated
+🟢 **Active** - Regularly maintained and updated
 
 Last Updated: October 2024  
 Lab Version: 1.0  
